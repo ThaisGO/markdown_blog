@@ -1,8 +1,7 @@
 <template>
     <div>
         <ContentList path="/posts" v-slot="{ list }">
-            <!-- {{ list }} -->
-              list
+            {{ list }}
         </ContentList> 
     </div>
 </template>
