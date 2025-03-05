@@ -15,3 +15,9 @@
     <NuxtWelcome /> -->
   </div>
 </template>
+
+<style>
+  body {
+    @apply bg-gray-500
+  }
+</style>

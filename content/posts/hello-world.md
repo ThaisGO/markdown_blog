@@ -5,6 +5,7 @@ date: 2025-10-06
 darft: false
 tags: ["hello", "world"]
 thumbnail: "/img/hello-world.jpg"
+slug: "hello-world"
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in nunc laoreet erat interdum volutpat. Integer tincidunt lectus ultricies ipsum bibendum varius. Ut fermentum nulla massa, id maximus risus fringilla sed. Sed tempor eget nibh at semper. Etiam vehicula iaculis justo vitae egestas. Duis non ullamcorper lacus. Sed nec pretium lacus.
